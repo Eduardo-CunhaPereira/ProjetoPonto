@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666550217 source:c:\users\dudup\onedrive\Área de trabalho\dev\arq ponto\ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1666550325 source:c:\users\dudup\onedrive\Área de trabalho\dev\arq ponto\ponto\resource.rc
+
+1666550325 source:c:\users\dudup\onedrive\Área de trabalho\dev\projetoponto\ponto\resource.rc
+
